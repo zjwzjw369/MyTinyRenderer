@@ -123,8 +123,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="include\tgaimage.cpp" />
-    <ClCompile Include="L5.cpp" />
     <ClCompile Include="src\geometry.cpp" />
+    <ClCompile Include="src\L5.cpp" />
     <ClCompile Include="src\model.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

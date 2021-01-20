@@ -32,7 +32,7 @@
     <ClCompile Include="src\model.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="L4.cpp">
+    <ClCompile Include="src\L4.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

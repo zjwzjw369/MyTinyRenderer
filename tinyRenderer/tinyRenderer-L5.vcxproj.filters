@@ -35,7 +35,7 @@
     <ClCompile Include="src\model.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="L5.cpp">
+    <ClCompile Include="src\L5.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
